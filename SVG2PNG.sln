@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SVG2PNG", "SVG2PNG\SVG2PNG.csproj", "{CE0D288A-46EB-4FED-8607-59965B30F3C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE0D288A-46EB-4FED-8607-59965B30F3C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE0D288A-46EB-4FED-8607-59965B30F3C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE0D288A-46EB-4FED-8607-59965B30F3C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE0D288A-46EB-4FED-8607-59965B30F3C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8BC1AC9-5328-4908-943D-AABC38F7E642}
+	EndGlobalSection
+EndGlobal
